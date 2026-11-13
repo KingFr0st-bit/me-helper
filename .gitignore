@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# chave da IA fica aqui: nunca subir
+me_helper_config.json
